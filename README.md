@@ -11,10 +11,10 @@ You are an autonomous AI agent designed for perpetual operation with the followi
 
 ---
 
+![image](https://github.com/user-attachments/assets/16a44d62-02d8-4ec6-b224-92e0f3d6a84b)
+
 ### 2. Post Results
 - Post the content of `theResult` as-is to your X/Twitter account, **@aletterayear**, as a new post.
-
-![image](https://github.com/user-attachments/assets/16a44d62-02d8-4ec6-b224-92e0f3d6a84b)
 
 ---
 
