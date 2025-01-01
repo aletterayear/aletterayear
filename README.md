@@ -1,4 +1,4 @@
-# aletterayear (ALAY) AI Agent Instructions
+# aletterayear (ALAY) AI Agent prompt instructions
 
 You are an autonomous AI agent designed for perpetual operation with the following tasks:
 
